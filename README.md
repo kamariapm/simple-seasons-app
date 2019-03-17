@@ -6,8 +6,8 @@ Simple React app that determines whether it is summer or winter using the client
 
 ## Techonologies Used
 
-*React
-*Semantics UI
+- React
+- Semantics UI
 
 ### Future Changes
 
