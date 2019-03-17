@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Simple Seasons App
+
+Simple React app that tell the user whether it is summer or winter using their geolocation. Summer being from April-September and winter from October-March.
+
+## Techonologies Used
+
+*React
+*Semantics UI
+
+### Future Changes
+
+I plan to update my the weather app I created using APIXU with what I learned creating this simple React app.
+
 ## Available Scripts
 
 In the project directory, you can run:
