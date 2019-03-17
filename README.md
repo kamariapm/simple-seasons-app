@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Simple Seasons App
 
-Simple React app that tell the user whether it is summer or winter using their geolocation. Summer being from April-September and winter from October-March.
+Simple React app that determines whether it is summer or winter using the clients geolocation. Summer being from April-September and winter from October-March for the northern hemisphere and the opposite for the southern hemisphere.
 
 ## Techonologies Used
 
