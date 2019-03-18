@@ -11,7 +11,7 @@ Simple React app that determines whether it is summer or winter using the client
 
 ### Future Changes
 
-I plan to update my the weather app I created using APIXU with what I learned creating this simple React app.
+I plan to update the weather app I created using APIXU with what I learned creating this simple React app.
 
 ## Available Scripts
 
